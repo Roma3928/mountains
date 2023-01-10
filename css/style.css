@@ -108,7 +108,7 @@ textarea {
 }
 
 .hamburger {
-    background-image: url(/../img/hamb.svg);
+    background-image: url(../img/hamb.svg);
     height: 25px;
     width: 25px;
     cursor: pointer;
@@ -135,7 +135,7 @@ textarea {
 }
 
 .header-inner__bgimage {
-    background-image: url(/../img/head-bg.jpg);
+    background-image: url(../img/head-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -197,7 +197,7 @@ textarea {
 }
 
 .author-info__avatar {
-    background-image: url(/../img/avatar.jpg);
+    background-image: url(../img/avatar.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -261,7 +261,7 @@ textarea {
 }
 
 .catalog__item-box_top {
-    background-image: url(/../img/catalog3.jpg);
+    background-image: url(../img/catalog3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
@@ -272,23 +272,23 @@ textarea {
 }
 
 .item_one {
-    background-image: url(/../img/catalog1.jpg);
+    background-image: url(../img/catalog1.jpg);
 }
 
 .item_two {
-    background-image: url(/../img/catalog2.png);
+    background-image: url(../img/catalog2.png);
 }
 
 .item_three {
-    background-image: url(/../img/catalog3.jpg);
+    background-image: url(../img/catalog3.jpg);
 }
 
 .item_four {
-    background-image: url(/../img/catalog4.png);
+    background-image: url(../img/catalog4.png);
 }
 
 .item_five {
-    background-image: url(/../img/catalog5.png);
+    background-image: url(../img/catalog5.png);
 }
 
 .item_place,
@@ -335,7 +335,7 @@ textarea {
 }
 
 .catalog__item-box_bottom span {
-    background-image: url(/../img/time.png);
+    background-image: url(../img/time.png);
     background-size: cover;
     width: 25px;
     height: 25px;
@@ -372,14 +372,14 @@ textarea {
 }
 
 .advantage__item__icon_one {
-    background-image: url(/../img/icon1.png);
+    background-image: url(../img/icon1.png);
     background-size: cover;
     width: 60px;
     height: 60px;
 }
 
 .advantage__item__icon_two {
-    background-image: url(/../img/icon2.png);
+    background-image: url(../img/icon2.png);
     background-size: cover;
     width: 40px;
     height: 40px;
@@ -387,28 +387,28 @@ textarea {
 }
 
 .advantage__item__icon_three {
-    background-image: url(/../img/icon3.png);
+    background-image: url(../img/icon3.png);
     background-size: cover;
     width: 60px;
     height: 60px;
 }
 
 .advantage__item__icon_four {
-    background-image: url(/../img/icon4.png);
+    background-image: url(../img/icon4.png);
     background-size: cover;
     width: 60px;
     height: 60px;
 }
 
 .advantage__item__icon_five {
-    background-image: url(/../img/icon5.png);
+    background-image: url(../img/icon5.png);
     background-size: cover;
     width: 60px;
     height: 60px;
 }
 
 .advantage__item__icon_six {
-    background-image: url(/../img/icon6.png);
+    background-image: url(../img/icon6.png);
     background-size: cover;
     width: 60px;
     height: 60px;
@@ -503,7 +503,7 @@ textarea {
 
 .ac .ac-trigger::after {
     content: "";
-    background-image: url(/../img/after.svg);
+    background-image: url(../img/after.svg);
     width: 24px;
     height: 24px;
 }
@@ -524,7 +524,7 @@ textarea {
 /* SECTIOM FORM */
 
 .form-box {
-    background-image: url(/../img/bg-footer.jpg);
+    background-image: url(../img/bg-footer.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: scroll;
