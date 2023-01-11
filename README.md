@@ -1,4 +1,4 @@
-#<a style="font-size: 20px" href="https://roma3928.github.io/mountains-html/"> Сайт для брони путешествий РоманВгорах</a>
+#[Сайт для брони путешествий РоманВгорах](https://roma3928.github.io/mountains-html/)
 
 <ul>
 <li>Есть адаптив до 320px</li>
